@@ -35,7 +35,7 @@ You can adjust some parameters at the top of the sketch to easily tweak your eff
     int maxSleep = 25;
     int minSleep = 7;
     
-If you want to get really fancy, you can craft your own enclosures -- or just use a toilet paper roll, some duct tape, and some parchment paper to great effect... like this: 
+If you want to get really fancy, you can craft your own enclosures -- or just use a toilet paper roll, some duct tape, and some parchment paper to great effect... like this (but don't use 9v batteries -- they kind of suck for this type of thing): 
 
 ![Halloween spooky eyes](https://farm4.staticflickr.com/3946/15450734046_631ee7ee97.jpg)
 
