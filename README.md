@@ -3,7 +3,7 @@ Halloween spooky eyes
 
 Arduino sketch for 2 blinking LED 'eyes'
 
-I have tested this with an Adafruit Pro Trinket successfully.  
+I have tested this with an [Adafruit Pro Trinket](https://www.adafruit.com/products/2010) successfully.  
 
 You can adjust some parameters at the top of the sketch to easily tweak your effects:
 
