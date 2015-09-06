@@ -1,5 +1,4 @@
-Halloween spooky eyes
-===================
+# Halloween spooky eyes
 
 Arduino sketch for 2 blinking LED 'eyes'
 
