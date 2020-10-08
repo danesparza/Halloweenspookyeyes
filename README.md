@@ -6,7 +6,7 @@ I have tested this with an [Adafruit Pro Trinket](https://www.adafruit.com/produ
 
 You can adjust some parameters at the top of the sketch to easily tweak your effects:
 
-```Arduino
+```cpp
 //  LED pins
 int led = 5; 
 int led2 = 6; 
